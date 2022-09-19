@@ -8,9 +8,33 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    var datas: [Element] {
+        DataSource.alphabet.map { Element(id: $0, text: $0) }.sorted { $0.id < $1.id }
+    }
+    
+    #if !os(macOS)
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        main.navigationBarTitleDisplayMode(.inline)
+    }
+    #else
+    var body: some View {
+        main.frame(minWidth: 500, minHeight: 500)
+    }
+    #endif
+    
+    
+    var main: some View {
+        NavigationView {
+            List(datas) { data in
+                NavigationLink {
+                    Detail(item: data.id)
+                } label: {
+                    Text(data.id)
+                }
+            }
+            .navigationTitle("Dictionary")
+        }
     }
 }
 
