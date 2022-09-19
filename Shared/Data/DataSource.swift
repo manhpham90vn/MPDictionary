@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import AVFoundation
 
 struct DataSource {
     
@@ -19,6 +20,12 @@ struct DataSource {
         let obj = try JSONDecoder().decode(Dictionary.self, from: data)
         return obj
     }
+    
+    static func speak(text: String) {
+        let utterance = AVSpeechUtterance(string: text)
+        utterance.voice = AVSpeechSynthesisVoice(language: "en-US")
+        utterance.volume = 1
+        let synth = AVSpeechSynthesizer()
+        synth.speak(utterance)
+    }
 }
-
-
