@@ -24,14 +24,14 @@ jobs:
       run: |
           sudo xcode-select -switch /Applications/Xcode_13.2.1.app && /usr/bin/xcodebuild -version
   
-    - name: Test iOS 
+    - name: Test macOS
       run: |
         xcodebuild -configuration "Debug" \
           -project "MPDictionary.xcodeproj" \
           -destination 'generic/platform=macOS' \
           -scheme "MPDictionary (macOS)"
   
-    - name: Test macOS 
+    - name: Test iOS
       run: |
         xcodebuild -configuration "Debug" \
         -project "MPDictionary.xcodeproj"  \
