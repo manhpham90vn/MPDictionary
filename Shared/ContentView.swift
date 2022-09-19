@@ -30,7 +30,7 @@ struct ContentView: View {
                 NavigationLink {
                     Detail(item: data.id)
                 } label: {
-                    Text(data.id)
+                    Text(data.id.uppercased())
                 }
             }
             .navigationTitle("Dictionary")

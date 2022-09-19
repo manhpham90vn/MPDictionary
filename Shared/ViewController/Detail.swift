@@ -18,7 +18,7 @@ struct Detail: View {
     
     #if !os(macOS)
     var body: some View {
-        main
+        main.navigationBarTitleDisplayMode(.automatic)
     }
     #else
     var body: some View {
@@ -35,8 +35,7 @@ struct Detail: View {
                 Text(data.text)
             }
         }
-        .navigationTitle(item)
-        .navigationBarTitleDisplayMode(.automatic)
+        .navigationTitle(item.uppercased())
     }
 }
 
