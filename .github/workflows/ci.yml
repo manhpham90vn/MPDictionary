@@ -1,0 +1,39 @@
+name: Build test
+
+on:
+  pull_request:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: macos-12
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: List available Xcode versions
+      run: |
+        ls /Applications | grep Xcode
+
+    - name: Select Xcode
+      run: |
+          sudo xcode-select -switch /Applications/Xcode_13.2.1.app && /usr/bin/xcodebuild -version
+  
+    - name: Test iOS 
+      run: |
+        xcodebuild -configuration "Debug" \
+          -project "MPDictionary.xcodeproj" \
+          -destination 'generic/platform=macOS' \
+          -scheme "MPDictionary (macOS)"
+  
+    - name: Test macOS 
+      run: |
+        xcodebuild -configuration "Debug" \
+        -project "MPDictionary.xcodeproj"  \
+        -destination 'platform=iOS Simulator,name=iPhone 13 Pro Max' \
+        -scheme "MPDictionary (iOS)"
