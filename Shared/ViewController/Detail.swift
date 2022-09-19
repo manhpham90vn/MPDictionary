@@ -34,6 +34,9 @@ struct Detail: View {
                 Spacer()
                 Text(data.text)
             }
+            .onTapGesture {
+                DataSource.speak(text: data.id)
+            }
         }
         .navigationTitle(item.uppercased())
     }
