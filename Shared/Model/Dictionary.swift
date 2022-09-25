@@ -8,5 +8,5 @@
 import Foundation
 
 struct Dictionary: Decodable {
-    var element: [String: [String: String]]
+    var elements: [Element]
 }

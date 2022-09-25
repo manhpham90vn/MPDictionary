@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     
     var datas: [Element] {
-        DataSource.alphabet.map { Element(id: $0, text: $0) }.sorted { $0.id < $1.id }
+        return (try? DataSource.getData().elements.sorted { $0.id < $1.id }) ?? []
     }
     
     #if !os(macOS)
@@ -28,7 +28,7 @@ struct ContentView: View {
         NavigationView {
             List(datas) { data in
                 NavigationLink {
-                    Detail(item: data.id)
+                    Detail(item: data)
                 } label: {
                     Text(data.id.uppercased())
                 }

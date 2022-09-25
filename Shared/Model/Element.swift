@@ -7,7 +7,14 @@
 
 import Foundation
 
-struct Element: Identifiable {
+struct Element: Codable, Identifiable {
     var id: String
-    var text: String
+    var items: [ElementData]
+}
+
+struct ElementData: Codable, Identifiable {
+    var id: Int
+    var en: String
+    var vi: String
+    var spell: String
 }

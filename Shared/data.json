@@ -1,574 +1,3333 @@
 {
-    "element": {
-        "a": {
-            "about" : "về",
-            "above" : "ở trên",
-            "across" : "ngang qua",
-            "act" : "hành động, cư xử",
-            "active" : "năng động, chủ động",
-            "activity" : "hoạt động",
-            "add" : "thêm vào, cộng",
-            "afraid" : "sợ, e rằng",
-            "after" : "sau",
-            "again" : "lại, một lần nữa",
-            "age" : "tuổi",
-            "ago" : "trước đây, về trước",
-            "agree" : "đồng ý",
-            "air" : "không khí, không trung",
-            "all" : "tất cả, toàn bộ",
-            "alone" : "một mình",
-            "along" : "dọc theo",
-            "already" : "đã, rồi",
-            "always" : "luôn luôn",
-            "am" : "là",
-            "are" : "là",
-            "amount" : "lượng",
-            "and" : "và",
-            "angry" : "giận giữ",
-            "any" : "một vài, một số",
-            "anyone" : "người nào, ai",
-            "anything" : "vật gì, việc gì",
-            "anytime" : "bất kì lúc nào",
-            "another" : "khác, nữa",
-            "answer" : "trả lời, câu trả lời",
-            "appear" : "xuất hiện",
-            "apple" : "quả táo",
-            "area" : "khu vực",
-            "arm" : "cánh tay",
-            "army" : "quân đội",
-            "around" : "vòng quanh, xung quanh",
-            "arrive" : "đến",
-            "art" : "nghệ thuật",
-            "as" : "khi",
-            "ask" : "hỏi",
-            "at" : "ở tại",
-            "attack" : "tấn công",
-            "aunt" : "dì, cô, bác",
-            "autumn" : "mùa thu",
-            "away" : "xa, cách xa"
+  "elements": [
+    {
+      "id": "b",
+      "items": [
+        {
+          "en": "buy",
+          "id": 0,
+          "vi": "mua",
+          "spell": "bī"
         },
-        "b": {
-            "baby" : "trẻ con",
-            "back" : "sau, trở lại",
-            "bad" : "tồi tệ",
-            "bag" : "túi",
-            "ball" : "bóng",
-            "bank" : "ngân hàng",
-            "basket" : "giỏ",
-            "bath" : "tắm",
-            "bean" : "đậu, đỗ",
-            "bear" : "gấu",
-            "beer" : "bia",
-            "bed" : "gường",
-            "bedroom" : "phòng ngủ",
-            "be" : "thì, là",
-            "behave" : "cư xử, hành vi",
-            "before" : "trước",
-            "begin" : "bắt đầu",
-            "behind" : "đằng sau",
-            "below" : "ở dưới",
-            "besides" : "ngoài, bên cạnh",
-            "best" : "tốt nhất",
-            "better" : "tốt hơn",
-            "between" : "ở giữa",
-            "bell" : "chuông",
-            "big" : "to lớn",
-            "bird" : "con chim",
-            "birth" : "sự sinh đẻ",
-            "birthday" : "sinh nhật",
-            "bit" : "một mẩu, một mảnh, một ít",
-            "bite" : "cắn",
-            "black" : "màu đen",
-            "bleed" : "chảy máu",
-            "blood" : "máu",
-            "block" : "khối, tòa nhà",
-            "blue" : "màu xanh da trời",
-            "board" : "bảng",
-            "boat" : "thuyền",
-            "body" : "cơ thể",
-            "bone" : "xương",
-            "book" : "sách",
-            "border" : "biên giới",
-            "bottle" : "chai, lọ",
-            "bowl" : "bát",
-            "born" : "sinh ra",
-            "blow" : "thổi",
-            "boil" : "đun, sôi",
-            "borrow" : "mượn",
-            "breathe" : "thở",
-            "bring" : "mang",
-            "brush" : "chải, quét, đánh",
-            "build" : "xây dựng",
-            "burn" : "cháy",
-            "buy" : "mua",
-            "both" : "cả hai",
-            "bottom" : "phần dưới cùng, đáy",
-            "box" : "hộp",
-            "boy" : "cậu bé",
-            "branch" : "nhánh, chi",
-            "brave" : "dũng cảm",
-            "bread" : "bánh mỳ",
-            "break" : "làm vỡ",
-            "breakfast" : "bữa sáng",
-            "bridge" : "cây cầu",
-            "base" : "dựa vào",
-            "bright" : "sáng, thông minh",
-            "beautiful" : "đẹp",
-            "brother" : "anh em",
-            "brown" : "màu nâu",
-            "business" : "kinh doanh, công tác, công việc",
-            "bus" : "xe buýt",
-            "busy" : "bận rộn",
-            "but" : "nhưng",
-            "by" : "bằng"
+        {
+          "en": "brown",
+          "id": 1,
+          "vi": "màu nâu",
+          "spell": "broun"
         },
-        "c": {
-            "cake" : "bánh ngọt",
-            "candle" : "nến",
-            "cap" : "mũ lưỡi trai",
-            "car" : "xe hơi",
-            "card" : "bìa, thiệp",
-            "case" : "trường hợp",
-            "cat" : "mèo",
-            "century" : "thế kỷ",
-            "chair" : "ghế",
-            "chance" : "cơ hội",
-            "call" : "gọi",
-            "can" : "có thể",
-            "care" : "quan tâm, chăm sóc",
-            "careful" : "cẩn thận",
-            "careless" : "cẩu thả",
-            "carry" : "mang",
-            "catch" : "tóm",
-            "central" : "trung tâm",
-            "change" : "thay đổi",
-            "chase" : "đuổi theo",
-            "certain" : "chắc chắn",
-            "cheap" : "rẻ tiền",
-            "cheese" : "phô mai",
-            "chicken" : "gà",
-            "child" : "trẻ con",
-            "children" : "trẻ con",
-            "chocolate" : "chocalate",
-            "choice" : "lựa chọn",
-            "choose" : "lựa chọn",
-            "circle" : "vòng tròn",
-            "city" : "thành phố",
-            "class" : "thành phố",
-            "clever" : "thông minh",
-            "clean" : "sạch sẽ",
-            "clear" : "rõ ràng",
-            "climb" : "leo trèo",
-            "clock" : "đồng hồ",
-            "cloth" : "vải",
-            "clothes" : "quần áo",
-            "close" : "đóng",
-            "cloud" : "mây",
-            "cloudy" : "nhiều mây",
-            "coffee" : "cà phê",
-            "coat" : "áo khoác",
-            "coin" : "tiền xu",
-            "cold" : "lạnh",
-            "collect" : "thu thập, sưu tập",
-            "color" : "màu sắc",
-            "comb" : "cái lược",
-            "comfortable" : "thoải mái",
-            "common" : "chung, giống nhau",
-            "compare" : "so sánh",
-            "come" : "đến",
-            "complete" : "hoàn thành",
-            "computer" : "máy tính",
-            "condition" : "điều kiện",
-            "continue" : "tiếp tục",
-            "control" : "kiểm soát",
-            "cook" : "nấu ăn",
-            "cool" : "mát",
-            "copper" : "đồng",
-            "corn" : "ngô",
-            "corner" : "góc",
-            "correct" : "đúng",
-            "cost" : "trị giá, tính giá",
-            "contain" : "chứa",
-            "count" : "đếm",
-            "country" : "dất nước",
-            "course" : "khóa học",
-            "cover" : "bao phủ",
-            "crash" : "đâm, nghiền nát",
-            "cross" : "đi ngang qua",
-            "cry" : "khóc",
-            "cup" : "chén, tách",
-            "cupboard" : "tủ ly",
-            "cut" : "cắt"
+        {
+          "en": "back",
+          "id": 2,
+          "vi": "mặt sau",
+          "spell": "bak"
         },
-        "d": {
-            "dance" : "nhảy",
-            "dangerous" : "nguy hiểm",
-            "dark" : "tối",
-            "daughter" : "con gái",
-            "day" : "ngày",
-            "dead" : "chết, mất",
-            "decide" : "quyết định",
-            "decrease" : "giảm",
-            "deep" : "sâu",
-            "deer" : "con nai",
-            "depend" : "phụ thuộc",
-            "desk" : "bàn",
-            "destroy" : "phá huỷ",
-            "develop" : "phát triển",
-            "die" : "chết",
-            "different" : "khác",
-            "difficult" : "khó khăn",
-            "dinner" : "bữa tối",
-            "direct" : "hướng dẫn, chỉ dẫn",
-            "direction" : "hướng",
-            "dirty" : "bẩn",
-            "discover" : "phát hiện, khám phá",
-            "dish" : "đĩa, món ăn",
-            "do" : "làm",
-            "dog" : "con chó",
-            "door" : "cửa",
-            "double" : "gấp đốim nhân đôi",
-            "down" : "xuống",
-            "draw" : "vẽ",
-            "dream" : "giấc mơ",
-            "dress" : "váy liền",
-            "drink" : "uống",
-            "drive" : "lái xe",
-            "drop" : "rơi",
-            "dry" : "khô",
-            "duck" : "con vịt",
-            "dust" : "bụi",
-            "duty" : "nhiệm vụ, trách nhiệm"
+        {
+          "en": "baby",
+          "id": 3,
+          "vi": "đứa bé",
+          "spell": "ˈbābē"
         },
-        "e": {
-            "each" : "mỗi, một",
-            "ear" : "tai",
-            "early" : "sớm",
-            "earn" : "kiếm tiền",
-            "earth" : "đấy, trái đất",
-            "east" : "phía đông",
-            "easy" : "dễ dàng, đơn giản",
-            "eat" : "ăn",
-            "education" : "giáo dục",
-            "effect" : "tác động",
-            "egg" : "trứng",
-            "eight" : "tám",
-            "either" : "cũng",
-            "electric" : "điện",
-            "elephant" : "voi",
-            "else" : "khác",
-            "empty" : "trống, rỗng",
-            "end" : "kết thúc",
-            "enemy" : "kẻ thù",
-            "enjoy" : "thưởng thức, thích",
-            "enough" : "đủ",
-            "enter" : "vào",
-            "equal" : "bằng nhau",
-            "entrance" : "lối vào",
-            "escape" : "thoát ra",
-            "even" : "thậm chí",
-            "evening" : "buổi tối",
-            "event" : "sự kiện",
-            "ever" : "từng",
-            "every" : "mỗi, mọi",
-            "everyone" : "mọi người",
-            "everybody" : "mọi người",
-            "exact" : "chính xác",
-            "examination" : "thi cử, kỳ thi",
-            "example" : "ví dụ",
-            "except" : "ngoại trừ",
-            "excited" : "háo hức, sôi nổi",
-            "exercise" : "bài tập",
-            "expect" : "dự định, hi vọng, mong đợi",
-            "expensive" : "đắt",
-            "explain" : "giải thích",
-            "extremely" : "cực kỳ",
-            "eye" : "mắt"
+        {
+          "en": "bell",
+          "id": 4,
+          "vi": "chuông",
+          "spell": "bel"
         },
-        "f": {
-            "fail" : "thất bại",
-            "fall" : "rơi",
-            "false" : "sai",
-            "face" : "mặt",
-            "fact" : "sự kiện",
-            "family" : "gia đình",
-            "farm" : "nông trại, trang trại",
-            "female" : "nữ giới",
-            "film" : "phim",
-            "finger" : "ngón tay",
-            "fire" : "lửa",
-            "fish" : "cá",
-            "flag" : "cờ",
-            "famous" : "nổi tiếng",
-            "far" : "xa",
-            "father" : "bố",
-            "fast" : "nhanh",
-            "fault" : "lỗi",
-            "feed" : "cho ăn",
-            "feel" : "cảm thấy, cảm nhận",
-            "fever" : "sốt",
-            "few" : "ít, một số",
-            "fight" : "đánh nhau",
-            "fat" : "béo",
-            "fear" : "sợ, e rằng",
-            "fill" : "đỏ đầy, điền vào",
-            "find" : "tìm thấy, phát hiện",
-            "fine" : "tốt đẹp, ổn",
-            "finish" : "hoàn thành",
-            "first" : "đầu tiên, nhất",
-            "fit" : "vừa, phù hợp",
-            "five" : "năm",
-            "fix" : "sửa chữa",
-            "flat" : "bằng phẳng",
-            "float" : "nổi, lơ lửng",
-            "floor" : "sàn",
-            "flour" : "bột",
-            "flower" : "hoa",
-            "fly" : "bay",
-            "fold" : "gấp",
-            "food" : "thức ăn, thực phẩm",
-            "fool" : "kẻ ngốc nghếch",
-            "foot" : "chân",
-            "football" : "bóng đá",
-            "for" : "để, cho",
-            "force" : "lực, lực lượng",
-            "foreign" : "nước ngoài",
-            "forest" : "rừng",
-            "forget" : "quên",
-            "forgive" : "tha thứ",
-            "fork" : "cái dĩa, nĩa",
-            "form" : "mẫu, dáng",
-            "fox" : "cáo",
-            "four" : "bốn",
-            "free" : "tự do, miễn phí",
-            "freedom" : "tự do",
-            "freeze" : "đông lại, làm đông đặc",
-            "fresh" : "tươi, mới",
-            "friend" : "bạn bè",
-            "friendly" : "thân mật, thân thiện",
-            "from" : "từ",
-            "front" : "phía trước",
-            "fruit" : "hoa quả",
-            "full" : "đầy",
-            "fun" : "sự vui vẻ, người vui vẻ",
-            "funny" : "hài hước, buồn cười",
-            "furniture" : "đồ đạc",
-            "further" : "xa hơn",
-            "future" : "tương lai"
+        {
+          "en": "basket",
+          "id": 5,
+          "vi": "giỏ",
+          "spell": "ˈbaskət"
         },
-        "g": {
-            "general" : "nhìn chung, tổng quát",
-            "get" : "kiếm, nhận",
-            "give" : "đưa cho, cho",
-            "glad" : "hân hạnh, vui",
-            "game" : "trò chơi",
-            "garden" : "vườn",
-            "gate" : "cổng",
-            "gentleman" : "quý ông",
-            "gift" : "món quà",
-            "glass" : "kính, thuỷ tinh",
-            "goat" : "dê",
-            "gold" : "vàng",
-            "green" : "xanh lá",
-            "grey" : "xám",
-            "god" : "chúa",
-            "good" : "tốt",
-            "goodbye" : "tạm biệt",
-            "grandfather" : "ông",
-            "grandmother" : "bà",
-            "grass" : "cỏ",
-            "grave" : "mộ, bia",
-            "great" : "lớn",
-            "ground" : "mặt đất, sân",
-            "group" : "nhóm",
-            "go" : "đi",
-            "grow" : "mọc, phát triển",
-            "gun" : "súng"
+        {
+          "en": "bright",
+          "id": 6,
+          "vi": "sáng, thông minh",
+          "spell": "brīt"
         },
-        "h": {
-            "hair" : "tóc",
-            "half" : "một nửa",
-            "hall" : "hội trường",
-            "hammer" : "cái búa",
-            "hand" : "tay",
-            "happen" : "xảy ra",
-            "happy" : "vui vẻ, hạnh phúc",
-            "hard" : "cứng, khó khăn",
-            "hat" : "mũ",
-            "hate" : "ghét",
-            "have" : "có",
-            "has" : "có",
-            "he" : "anh ấy",
-            "him" : "anh ấy",
-            "his" : "của anh ấy",
-            "hear" : "nghe thấy",
-            "hello" : "chào",
-            "heavy" : "nặng",
-            "heart" : "trái tim",
-            "heaven" : "thiên đường",
-            "high" : "cao",
-            "height" : "chiều cao",
-            "help" : "giúp đỡ",
-            "hen" : "gà mái",
-            "her" : "cô ấy, của cô ấy",
-            "hers" : "của cô ấy",
-            "here" : "đây",
-            "hide" : "giấu",
-            "hill" : "đồi",
-            "hit" : "đánh",
-            "hobby" : "sở thích, thú vui",
-            "hold" : "giữ, cầm",
-            "hole" : "hố, lỗ",
-            "holiday" : "kỳ nghỉ, ngày nghỉ",
-            "home" : "nhà",
-            "hope" : "hi vọng",
-            "horse" : "ngựa",
-            "head" : "đầu",
-            "hospital" : "bệnh viện",
-            "hot" : "nóng",
-            "hotel" : "khách sạn",
-            "house" : "ngôi nhà",
-            "how" : "như thế nào",
-            "hundred" : "trăm",
-            "healthy" : "khoẻ",
-            "hungry" : "đói",
-            "hour" : "giờ, tiếng",
-            "hurry" : "gục, vội vàng",
-            "husband" : "chồng",
-            "hurt" : "đau"
+        {
+          "en": "brave",
+          "id": 7,
+          "vi": "dũng cảm",
+          "spell": "brāv"
         },
-        "i": {
-            "i" : "tôi",
-            "ice" : "đá",
-            "idea" : "ý tưởng, ý kiến",
-            "if" : "nếu",
-            "important" : "quan trọng",
-            "increase" : "tăng",
-            "introduce" : "giới thiệu",
-            "in" : "trong",
-            "inside" : "bên trong",
-            "into" : "vào trong",
-            "invent" : "phát minh, chế tạo",
-            "iron" : "sắt",
-            "invite" : "mời",
-            "is" : "là",
-            "island" : "hòn đảo",
-            "it" : "nó",
-            "its" : "của nó"
+        {
+          "en": "behave",
+          "id": 8,
+          "vi": "cư xử, hành vi",
+          "spell": "bəˈhāv"
         },
-        "j": {
-            "jelly" : "thạch",
-            "job" : "công việc",
-            "join" : "tham gia",
-            "juice" : "nước ép",
-            "jump" : "nhảy",
-            "just" : "vừa mới"
+        {
+          "en": "blood",
+          "id": 9,
+          "vi": "máu",
+          "spell": "bləd"
         },
-        "k": {
-            "keep" : "giữ",
-            "key" : "chìa khoá",
-            "kill" : "giết, chết",
-            "kind" : "tốt bụng, tử tế",
-            "king" : "vua",
-            "kitchen" : "nhà bếp",
-            "knee" : "đầu gối",
-            "knife" : "dao",
-            "knock" : "gõ",
-            "know" : "biết"
+        {
+          "en": "bed",
+          "id": 10,
+          "vi": "gường",
+          "spell": "bed"
         },
-        "l": {
-            "ladder" : "thang",
-            "lady" : "phụ nữa, quý bà",
-            "lamp" : "đèn",
-            "land" : "đất",
-            "large" : "lớn, rộng",
-            "last" : "cuối cùng",
-            "late" : "muộn",
-            "lately" : "gần đây",
-            "laugh" : "cười",
-            "lazy" : "lười biếng",
-            "lead" : "lãnh đạo, dẫn dắt",
-            "leaf" : "cái lá",
-            "learn" : "học tập",
-            "leave" : "rời đi",
-            "leg" : "chân, cẳng chân",
-            "left" : "trái",
-            "lend" : "cho mượn",
-            "length" : "chiều dài",
-            "less" : "ít hơn",
-            "lesson" : "bài học",
-            "let" : "đẻ cho",
-            "letter" : "thư",
-            "library" : "thư viện",
-            "lie" : "nói dối",
-            "life" : "cuộc đời",
-            "live" : "sống",
-            "light" : "ánh sáng",
-            "like" : "thích",
-            "lion" : "sư tử",
-            "lip" : "môi",
-            "list" : "danh sách",
-            "listen" : "nghe, lắng nghe",
-            "little" : "nhỏ",
-            "lock" : "khoá",
-            "lonely" : "cô đơn, cô độc",
-            "long" : "dài, lâu",
-            "look" : "nhìn, trông",
-            "lose" : "mất",
-            "lot" : "nhiều",
-            "love" : "yêu",
-            "low" : "thấp",
-            "lower" : "hạn, giảm",
-            "luck" : "may mắn"
+        {
+          "en": "bath",
+          "id": 11,
+          "vi": "bồn tắm",
+          "spell": "baTH"
         },
-        "m": {
-            "machine" : "máy",
-            "main" : "chính, chủ yếu",
-            "make" : "làm",
-            "male" : "giống đực",
-            "man" : "đàn ông",
-            "many" : "nhiều",
-            "much" : "nhiều",
-            "more" : "nhiều hơn",
-            "most" : "nhiều nhất",
-            "map" : "bản đồ",
-            "mark" : "điểm, điểm số",
-            "market" : "chợ, thị trường",
-            "marry" : "cưới, kết hơn",
-            "matter" : "vấn đề",
-            "may" : "có thể",
-            "must" : "phải",
-            "me" : "tôi",
-            "my" : "của tôi",
-            "meal" : "bữa ăn",
-            "meat" : "thịt",
-            "milk" : "sữa",
-            "mean" : "có nghĩa là",
-            "measure" : "đo, đo lường",
-            "medicine" : "thuốc",
-            "meet" : "gặp",
-            "member" : "thành viên",
-            "mention" : "đề cập, giới thiệu",
-            "method" : "phương pháp, cách thức",
-            "middle" : "ở giữa",
-            "million" : "một triệu",
-            "mind" : "quan tâm, tinh thần",
-            "minute" : "phút",
-            "miss" : "nhỡ, bỏ lỡ",
-            "mistake" : "lỗi, lỗi lầm",
-            "mix" : "hoà lẫn, pha trộn",
-            "modal" : "người mẫu",
-            "modern" : "hiện đại, tân tiến",
-            "moment" : "chốc, lúc lát",
-            "money" : "tiền",
-            "monkey" : "con khỉ",
-            "month" : "tháng",
-            "moon" : "mặt trăng",
-            "mouth" : "miệng",
-            "music" : "âm nhạc",
-            "mother" : "mẹ",
-            "morning" : "buổi sáng",
-            "mountain" : "núi"
+        {
+          "en": "bank",
+          "id": 12,
+          "vi": "ngân hàng",
+          "spell": "baNGk"
+        },
+        {
+          "en": "bedroom",
+          "id": 13,
+          "vi": "phòng ngủ",
+          "spell": "ˈbedˌro͞om"
+        },
+        {
+          "en": "beautiful",
+          "id": 14,
+          "vi": "đẹp",
+          "spell": "ˈbyo͞odəfəl"
+        },
+        {
+          "en": "best",
+          "id": 15,
+          "vi": "tốt nhất",
+          "spell": "best"
+        },
+        {
+          "en": "born",
+          "id": 16,
+          "vi": "sinh ra",
+          "spell": "bôrn"
+        },
+        {
+          "en": "boy",
+          "id": 17,
+          "vi": "cậu bé",
+          "spell": "boi"
+        },
+        {
+          "en": "be",
+          "id": 18,
+          "vi": "thì, là",
+          "spell": "bē"
+        },
+        {
+          "en": "bread",
+          "id": 19,
+          "vi": "bánh mỳ",
+          "spell": "bred"
+        },
+        {
+          "en": "bad",
+          "id": 20,
+          "vi": "tồi tệ",
+          "spell": "bad"
+        },
+        {
+          "en": "bag",
+          "id": 21,
+          "vi": "túi",
+          "spell": "baɡ"
+        },
+        {
+          "en": "between",
+          "id": 22,
+          "vi": "ở giữa",
+          "spell": "bəˈtwēn"
+        },
+        {
+          "en": "bowl",
+          "id": 23,
+          "vi": "bát",
+          "spell": "bōl"
+        },
+        {
+          "en": "blue",
+          "id": 24,
+          "vi": "màu xanh da trời",
+          "spell": "blo͞o"
+        },
+        {
+          "en": "book",
+          "id": 25,
+          "vi": "sách",
+          "spell": "bo͝ok"
+        },
+        {
+          "en": "big",
+          "id": 26,
+          "vi": "to lớn",
+          "spell": "biɡ"
+        },
+        {
+          "en": "boat",
+          "id": 27,
+          "vi": "thuyền",
+          "spell": "boat"
+        },
+        {
+          "en": "by",
+          "id": 28,
+          "vi": "bằng",
+          "spell": "bī"
+        },
+        {
+          "en": "brush",
+          "id": 29,
+          "vi": "chải, quét, đánh",
+          "spell": "brəSH"
+        },
+        {
+          "en": "begin",
+          "id": 30,
+          "vi": "bắt đầu",
+          "spell": "biˈɡin"
+        },
+        {
+          "en": "boil",
+          "id": 31,
+          "vi": "đun, sôi",
+          "spell": "boil"
+        },
+        {
+          "en": "bottom",
+          "id": 32,
+          "vi": "phần dưới cùng, đáy",
+          "spell": "ˈbädəm"
+        },
+        {
+          "en": "bus",
+          "id": 33,
+          "vi": "xe buýt",
+          "spell": "bəs"
+        },
+        {
+          "en": "bite",
+          "id": 34,
+          "vi": "cắn",
+          "spell": "bīt"
+        },
+        {
+          "en": "branch",
+          "id": 35,
+          "vi": "nhánh, chi",
+          "spell": "bran(t)SH"
+        },
+        {
+          "en": "behind",
+          "id": 36,
+          "vi": "đằng sau",
+          "spell": "bəˈhīnd"
+        },
+        {
+          "en": "build",
+          "id": 37,
+          "vi": "xây dựng",
+          "spell": "bild"
+        },
+        {
+          "en": "blow",
+          "id": 38,
+          "vi": "thổi",
+          "spell": "blō"
+        },
+        {
+          "en": "black",
+          "id": 39,
+          "vi": "màu đen",
+          "spell": "blak"
+        },
+        {
+          "en": "bird",
+          "id": 40,
+          "vi": "con chim",
+          "spell": "bərd"
+        },
+        {
+          "en": "board",
+          "id": 41,
+          "vi": "bảng",
+          "spell": "bôrd"
+        },
+        {
+          "en": "bring",
+          "id": 42,
+          "vi": "mang",
+          "spell": "briNG"
+        },
+        {
+          "en": "bear",
+          "id": 43,
+          "vi": "gấu",
+          "spell": "ber"
+        },
+        {
+          "en": "bean",
+          "id": 44,
+          "vi": "đậu, đỗ",
+          "spell": "bēn"
+        },
+        {
+          "en": "break",
+          "id": 45,
+          "vi": "làm vỡ",
+          "spell": "brāk"
+        },
+        {
+          "en": "base",
+          "id": 46,
+          "vi": "dựa vào",
+          "spell": "bās"
+        },
+        {
+          "en": "breathe",
+          "id": 47,
+          "vi": "thở",
+          "spell": "brēT͟H"
+        },
+        {
+          "en": "box",
+          "id": 48,
+          "vi": "hộp",
+          "spell": "bäks"
+        },
+        {
+          "en": "bleed",
+          "id": 49,
+          "vi": "chảy máu",
+          "spell": "blēd"
+        },
+        {
+          "en": "below",
+          "id": 50,
+          "vi": "ở dưới",
+          "spell": "bəˈlō"
+        },
+        {
+          "en": "before",
+          "id": 51,
+          "vi": "trước",
+          "spell": "bəˈfôr"
+        },
+        {
+          "en": "business",
+          "id": 52,
+          "vi": "kinh doanh, công tác, công việc",
+          "spell": "ˈbiznəs"
+        },
+        {
+          "en": "burn",
+          "id": 53,
+          "vi": "cháy",
+          "spell": "bərn"
+        },
+        {
+          "en": "bone",
+          "id": 54,
+          "vi": "xương",
+          "spell": "bōn"
+        },
+        {
+          "en": "birth",
+          "id": 55,
+          "vi": "sự sinh đẻ",
+          "spell": "bərTH"
+        },
+        {
+          "en": "both",
+          "id": 56,
+          "vi": "cả hai",
+          "spell": "bōTH"
+        },
+        {
+          "en": "block",
+          "id": 57,
+          "vi": "khối, tòa nhà",
+          "spell": "bläk"
+        },
+        {
+          "en": "bridge",
+          "id": 58,
+          "vi": "cây cầu",
+          "spell": "brij"
+        },
+        {
+          "en": "besides",
+          "id": 59,
+          "vi": "ngoài, bên cạnh",
+          "spell": "bəˈsīdz"
+        },
+        {
+          "en": "bottle",
+          "id": 60,
+          "vi": "chai, lọ",
+          "spell": "ˈbädl"
+        },
+        {
+          "en": "beer",
+          "id": 61,
+          "vi": "bia",
+          "spell": "bir"
+        },
+        {
+          "en": "border",
+          "id": 62,
+          "vi": "biên giới",
+          "spell": "ˈbôrdər"
+        },
+        {
+          "en": "birthday",
+          "id": 63,
+          "vi": "sinh nhật",
+          "spell": "ˈbərTHˌdā"
+        },
+        {
+          "en": "bit",
+          "id": 64,
+          "vi": "một mẩu, một mảnh, một ít",
+          "spell": "bit"
+        },
+        {
+          "en": "borrow",
+          "id": 65,
+          "vi": "mượn",
+          "spell": "ˈbärō"
+        },
+        {
+          "en": "brother",
+          "id": 66,
+          "vi": "anh em",
+          "spell": "ˈbrəT͟Hər"
+        },
+        {
+          "en": "ball",
+          "id": 67,
+          "vi": "bóng",
+          "spell": "bôl"
+        },
+        {
+          "en": "body",
+          "id": 68,
+          "vi": "cơ thể",
+          "spell": "ˈbädē"
+        },
+        {
+          "en": "busy",
+          "id": 69,
+          "vi": "bận rộn",
+          "spell": "ˈbizē"
+        },
+        {
+          "en": "breakfast",
+          "id": 70,
+          "vi": "bữa sáng",
+          "spell": "ˈbrekfəst"
+        },
+        {
+          "en": "better",
+          "id": 71,
+          "vi": "tốt hơn",
+          "spell": "ˈbedər"
+        },
+        {
+          "en": "but",
+          "id": 72,
+          "vi": "nhưng",
+          "spell": "bət"
         }
+      ]
+    },
+    {
+      "id": "e",
+      "items": [
+        {
+          "en": "eight",
+          "id": 0,
+          "vi": "tám",
+          "spell": "āt"
+        },
+        {
+          "en": "every",
+          "id": 1,
+          "vi": "mỗi, mọi",
+          "spell": "ˈevrē"
+        },
+        {
+          "en": "expect",
+          "id": 2,
+          "vi": "dự định, hi vọng, mong đợi",
+          "spell": "ikˈspekt"
+        },
+        {
+          "en": "ever",
+          "id": 3,
+          "vi": "từng",
+          "spell": "ˈevər"
+        },
+        {
+          "en": "explain",
+          "id": 4,
+          "vi": "giải thích",
+          "spell": "ikˈsplān"
+        },
+        {
+          "en": "either",
+          "id": 5,
+          "vi": "cũng",
+          "spell": "ˈēT͟Hər"
+        },
+        {
+          "en": "excited",
+          "id": 6,
+          "vi": "háo hức, sôi nổi",
+          "spell": "ikˈsīdəd"
+        },
+        {
+          "en": "everybody",
+          "id": 7,
+          "vi": "mọi người",
+          "spell": "ˈevrēˌbädē"
+        },
+        {
+          "en": "entrance",
+          "id": 8,
+          "vi": "lối vào",
+          "spell": "ˈentrəns"
+        },
+        {
+          "en": "eye",
+          "id": 9,
+          "vi": "mắt",
+          "spell": "ī"
+        },
+        {
+          "en": "even",
+          "id": 10,
+          "vi": "thậm chí",
+          "spell": "ˈēvən"
+        },
+        {
+          "en": "egg",
+          "id": 11,
+          "vi": "trứng",
+          "spell": "eɡ"
+        },
+        {
+          "en": "exact",
+          "id": 12,
+          "vi": "chính xác",
+          "spell": "iɡˈzakt"
+        },
+        {
+          "en": "event",
+          "id": 13,
+          "vi": "sự kiện",
+          "spell": "əˈvent"
+        },
+        {
+          "en": "enemy",
+          "id": 14,
+          "vi": "kẻ thù",
+          "spell": "ˈenəmē"
+        },
+        {
+          "en": "except",
+          "id": 15,
+          "vi": "ngoại trừ",
+          "spell": "ikˈsept"
+        },
+        {
+          "en": "everyone",
+          "id": 16,
+          "vi": "mọi người",
+          "spell": "ˈevrēˌwən"
+        },
+        {
+          "en": "enter",
+          "id": 17,
+          "vi": "vào",
+          "spell": "ˈen(t)ər"
+        },
+        {
+          "en": "eat",
+          "id": 18,
+          "vi": "ăn",
+          "spell": "ēt"
+        },
+        {
+          "en": "easy",
+          "id": 19,
+          "vi": "dễ dàng, đơn giản",
+          "spell": "ˈēzē"
+        },
+        {
+          "en": "escape",
+          "id": 20,
+          "vi": "thoát ra",
+          "spell": "əˈskāp"
+        },
+        {
+          "en": "enjoy",
+          "id": 21,
+          "vi": "thưởng thức, thích",
+          "spell": "inˈjoi"
+        },
+        {
+          "en": "earth",
+          "id": 22,
+          "vi": "đấy, trái đất",
+          "spell": "ərTH"
+        },
+        {
+          "en": "example",
+          "id": 23,
+          "vi": "ví dụ",
+          "spell": "iɡˈzampəl"
+        },
+        {
+          "en": "electric",
+          "id": 24,
+          "vi": "điện",
+          "spell": "əˈlektrik"
+        },
+        {
+          "en": "else",
+          "id": 25,
+          "vi": "khác",
+          "spell": "els"
+        },
+        {
+          "en": "ear",
+          "id": 26,
+          "vi": "tai",
+          "spell": "ir"
+        },
+        {
+          "en": "early",
+          "id": 27,
+          "vi": "sớm",
+          "spell": "ˈərlē"
+        },
+        {
+          "en": "extremely",
+          "id": 28,
+          "vi": "cực kỳ",
+          "spell": "ikˈstrēmlē"
+        },
+        {
+          "en": "enough",
+          "id": 29,
+          "vi": "đủ",
+          "spell": "iˈnəf"
+        },
+        {
+          "en": "end",
+          "id": 30,
+          "vi": "kết thúc",
+          "spell": "end"
+        },
+        {
+          "en": "empty",
+          "id": 31,
+          "vi": "trống, rỗng",
+          "spell": "ˈem(p)tē"
+        },
+        {
+          "en": "each",
+          "id": 32,
+          "vi": "mỗi, một",
+          "spell": "ēCH"
+        },
+        {
+          "en": "east",
+          "id": 33,
+          "vi": "phía đông",
+          "spell": "ēst"
+        },
+        {
+          "en": "effect",
+          "id": 34,
+          "vi": "tác động",
+          "spell": "əˈfekt"
+        },
+        {
+          "en": "education",
+          "id": 35,
+          "vi": "giáo dục",
+          "spell": "ˌejəˈkāSH(ə)n"
+        },
+        {
+          "en": "elephant",
+          "id": 36,
+          "vi": "voi",
+          "spell": "ˈeləfənt"
+        },
+        {
+          "en": "earn",
+          "id": 37,
+          "vi": "kiếm tiền",
+          "spell": "ərn"
+        },
+        {
+          "en": "exercise",
+          "id": 38,
+          "vi": "bài tập",
+          "spell": "ˈeksərˌsīz"
+        },
+        {
+          "en": "evening",
+          "id": 39,
+          "vi": "buổi tối",
+          "spell": "ˈēvniNG"
+        },
+        {
+          "en": "examination",
+          "id": 40,
+          "vi": "thi cử, kỳ thi",
+          "spell": "iɡˌzaməˈnāSH(ə)n"
+        },
+        {
+          "en": "equal",
+          "id": 41,
+          "vi": "bằng nhau",
+          "spell": "ˈēkwəl"
+        },
+        {
+          "en": "expensive",
+          "id": 42,
+          "vi": "đắt",
+          "spell": "ikˈspensiv"
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "items": [
+        {
+          "en": "comb",
+          "id": 0,
+          "vi": "cái lược",
+          "spell": "kōm"
+        },
+        {
+          "en": "compare",
+          "id": 1,
+          "vi": "so sánh",
+          "spell": "kəmˈper"
+        },
+        {
+          "en": "cloudy",
+          "id": 2,
+          "vi": "nhiều mây",
+          "spell": "ˈkloudē"
+        },
+        {
+          "en": "cook",
+          "id": 3,
+          "vi": "nấu ăn",
+          "spell": "ko͝ok"
+        },
+        {
+          "en": "chance",
+          "id": 4,
+          "vi": "cơ hội",
+          "spell": "CHans"
+        },
+        {
+          "en": "cover",
+          "id": 5,
+          "vi": "bao phủ",
+          "spell": "ˈkəvər"
+        },
+        {
+          "en": "continue",
+          "id": 6,
+          "vi": "tiếp tục",
+          "spell": "kənˈtinyo͞o"
+        },
+        {
+          "en": "chase",
+          "id": 7,
+          "vi": "đuổi theo",
+          "spell": "CHās"
+        },
+        {
+          "en": "cloud",
+          "id": 8,
+          "vi": "mây",
+          "spell": "kloud"
+        },
+        {
+          "en": "choose",
+          "id": 9,
+          "vi": "lựa chọn",
+          "spell": "CHo͞oz"
+        },
+        {
+          "en": "clever",
+          "id": 10,
+          "vi": "thông minh",
+          "spell": "ˈklevər"
+        },
+        {
+          "en": "can",
+          "id": 11,
+          "vi": "có thể",
+          "spell": "kan"
+        },
+        {
+          "en": "call",
+          "id": 12,
+          "vi": "gọi",
+          "spell": "kôl"
+        },
+        {
+          "en": "catch",
+          "id": 13,
+          "vi": "tóm",
+          "spell": "kaCH"
+        },
+        {
+          "en": "clean",
+          "id": 14,
+          "vi": "sạch sẽ",
+          "spell": "klēn"
+        },
+        {
+          "en": "cool",
+          "id": 15,
+          "vi": "mát",
+          "spell": "ko͞ol"
+        },
+        {
+          "en": "computer",
+          "id": 16,
+          "vi": "máy tính",
+          "spell": "kəmˈpyo͞odər"
+        },
+        {
+          "en": "come",
+          "id": 17,
+          "vi": "đến",
+          "spell": "kəm"
+        },
+        {
+          "en": "cat",
+          "id": 18,
+          "vi": "mèo",
+          "spell": "kat"
+        },
+        {
+          "en": "children",
+          "id": 19,
+          "vi": "trẻ con",
+          "spell": ""
+        },
+        {
+          "en": "cut",
+          "id": 20,
+          "vi": "cắt",
+          "spell": "kət"
+        },
+        {
+          "en": "corn",
+          "id": 21,
+          "vi": "ngô",
+          "spell": "kôrn"
+        },
+        {
+          "en": "cheap",
+          "id": 22,
+          "vi": "rẻ tiền",
+          "spell": "CHēp"
+        },
+        {
+          "en": "central",
+          "id": 23,
+          "vi": "trung tâm",
+          "spell": "ˈsentrəl"
+        },
+        {
+          "en": "cupboard",
+          "id": 24,
+          "vi": "tủ ly",
+          "spell": "ˈkəbərd"
+        },
+        {
+          "en": "cake",
+          "id": 25,
+          "vi": "bánh ngọt",
+          "spell": "kāk"
+        },
+        {
+          "en": "color",
+          "id": 26,
+          "vi": "màu sắc",
+          "spell": "ˈkələr"
+        },
+        {
+          "en": "clock",
+          "id": 27,
+          "vi": "đồng hồ",
+          "spell": "kläk"
+        },
+        {
+          "en": "careful",
+          "id": 28,
+          "vi": "cẩn thận",
+          "spell": "ˈkerfəl"
+        },
+        {
+          "en": "cup",
+          "id": 29,
+          "vi": "chén, tách",
+          "spell": "kəp"
+        },
+        {
+          "en": "common",
+          "id": 30,
+          "vi": "chung, giống nhau",
+          "spell": "ˈkämən"
+        },
+        {
+          "en": "clothes",
+          "id": 31,
+          "vi": "quần áo",
+          "spell": "klō(T͟H)z"
+        },
+        {
+          "en": "cap",
+          "id": 32,
+          "vi": "mũ lưỡi trai",
+          "spell": "cap"
+        },
+        {
+          "en": "card",
+          "id": 33,
+          "vi": "bìa, thiệp",
+          "spell": "kärd"
+        },
+        {
+          "en": "cheese",
+          "id": 34,
+          "vi": "phô mai",
+          "spell": "CHēz"
+        },
+        {
+          "en": "cry",
+          "id": 35,
+          "vi": "khóc",
+          "spell": "krī"
+        },
+        {
+          "en": "coffee",
+          "id": 36,
+          "vi": "cà phê",
+          "spell": "ˈkôfē"
+        },
+        {
+          "en": "class",
+          "id": 37,
+          "vi": "thành phố",
+          "spell": "klas"
+        },
+        {
+          "en": "country",
+          "id": 38,
+          "vi": "dất nước",
+          "spell": "ˈkəntrē"
+        },
+        {
+          "en": "chair",
+          "id": 39,
+          "vi": "ghế",
+          "spell": "CHer"
+        },
+        {
+          "en": "course",
+          "id": 40,
+          "vi": "khóa học",
+          "spell": "kôrs"
+        },
+        {
+          "en": "cost",
+          "id": 41,
+          "vi": "trị giá, tính giá",
+          "spell": "kôst"
+        },
+        {
+          "en": "city",
+          "id": 42,
+          "vi": "thành phố",
+          "spell": "ˈsidē"
+        },
+        {
+          "en": "candle",
+          "id": 43,
+          "vi": "nến",
+          "spell": "ˈkandl"
+        },
+        {
+          "en": "child",
+          "id": 44,
+          "vi": "trẻ con",
+          "spell": "CHīld"
+        },
+        {
+          "en": "correct",
+          "id": 45,
+          "vi": "đúng",
+          "spell": "kəˈrekt"
+        },
+        {
+          "en": "corner",
+          "id": 46,
+          "vi": "góc",
+          "spell": "ˈkôrnər"
+        },
+        {
+          "en": "careless",
+          "id": 47,
+          "vi": "cẩu thả",
+          "spell": "ˈkerləs"
+        },
+        {
+          "en": "coat",
+          "id": 48,
+          "vi": "áo khoác",
+          "spell": "kōt"
+        },
+        {
+          "en": "control",
+          "id": 49,
+          "vi": "kiểm soát",
+          "spell": "kənˈtrōl"
+        },
+        {
+          "en": "car",
+          "id": 50,
+          "vi": "xe hơi",
+          "spell": "kär"
+        },
+        {
+          "en": "coin",
+          "id": 51,
+          "vi": "tiền xu",
+          "spell": "koin"
+        },
+        {
+          "en": "condition",
+          "id": 52,
+          "vi": "điều kiện",
+          "spell": "kənˈdiSH(ə)n"
+        },
+        {
+          "en": "climb",
+          "id": 53,
+          "vi": "leo trèo",
+          "spell": "klīm"
+        },
+        {
+          "en": "change",
+          "id": 54,
+          "vi": "thay đổi",
+          "spell": "CHānj"
+        },
+        {
+          "en": "cold",
+          "id": 55,
+          "vi": "lạnh",
+          "spell": "kōld"
+        },
+        {
+          "en": "cloth",
+          "id": 56,
+          "vi": "vải",
+          "spell": "klôTH"
+        },
+        {
+          "en": "chocolate",
+          "id": 57,
+          "vi": "sô cô la",
+          "spell": "ˈCHäk(ə)lət"
+        },
+        {
+          "en": "close",
+          "id": 58,
+          "vi": "đóng",
+          "spell": "klōs"
+        },
+        {
+          "en": "carry",
+          "id": 59,
+          "vi": "mang",
+          "spell": "ˈkerē"
+        },
+        {
+          "en": "collect",
+          "id": 60,
+          "vi": "thu thập, sưu tập",
+          "spell": "kəˈlekt"
+        },
+        {
+          "en": "chicken",
+          "id": 61,
+          "vi": "gà",
+          "spell": "ˈCHikən"
+        },
+        {
+          "en": "crash",
+          "id": 62,
+          "vi": "đâm, nghiền nát",
+          "spell": "kraSH"
+        },
+        {
+          "en": "contain",
+          "id": 63,
+          "vi": "chứa",
+          "spell": "kənˈtān"
+        },
+        {
+          "en": "case",
+          "id": 64,
+          "vi": "trường hợp",
+          "spell": "kās"
+        },
+        {
+          "en": "choice",
+          "id": 65,
+          "vi": "lựa chọn",
+          "spell": "CHois"
+        },
+        {
+          "en": "century",
+          "id": 66,
+          "vi": "thế kỷ",
+          "spell": "ˈsen(t)SH(ə)rē"
+        },
+        {
+          "en": "circle",
+          "id": 67,
+          "vi": "vòng tròn",
+          "spell": "ˈsərk(ə)l"
+        },
+        {
+          "en": "cross",
+          "id": 68,
+          "vi": "đi ngang qua",
+          "spell": "krôs"
+        },
+        {
+          "en": "count",
+          "id": 69,
+          "vi": "đếm",
+          "spell": "kount"
+        },
+        {
+          "en": "comfortable",
+          "id": 70,
+          "vi": "thoải mái",
+          "spell": "ˈkəmfərdəb(ə)l"
+        },
+        {
+          "en": "certain",
+          "id": 71,
+          "vi": "chắc chắn",
+          "spell": "ˈsərtn"
+        },
+        {
+          "en": "clear",
+          "id": 72,
+          "vi": "rõ ràng",
+          "spell": "ˈklir"
+        },
+        {
+          "en": "copper",
+          "id": 73,
+          "vi": "đồng",
+          "spell": "ˈkäpər"
+        },
+        {
+          "en": "care",
+          "id": 74,
+          "vi": "quan tâm, chăm sóc",
+          "spell": "ker"
+        },
+        {
+          "en": "complete",
+          "id": 75,
+          "vi": "hoàn thành",
+          "spell": "kəmˈplēt"
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "items": [
+        {
+          "en": "i",
+          "id": 0,
+          "vi": "tôi",
+          "spell": ""
+        },
+        {
+          "en": "invite",
+          "id": 1,
+          "vi": "mời",
+          "spell": ""
+        },
+        {
+          "en": "in",
+          "id": 2,
+          "vi": "trong",
+          "spell": ""
+        },
+        {
+          "en": "into",
+          "id": 3,
+          "vi": "vào trong",
+          "spell": ""
+        },
+        {
+          "en": "inside",
+          "id": 4,
+          "vi": "bên trong",
+          "spell": ""
+        },
+        {
+          "en": "increase",
+          "id": 5,
+          "vi": "tăng",
+          "spell": ""
+        },
+        {
+          "en": "important",
+          "id": 6,
+          "vi": "quan trọng",
+          "spell": ""
+        },
+        {
+          "en": "its",
+          "id": 7,
+          "vi": "của nó",
+          "spell": ""
+        },
+        {
+          "en": "idea",
+          "id": 8,
+          "vi": "ý tưởng, ý kiến",
+          "spell": ""
+        },
+        {
+          "en": "if",
+          "id": 9,
+          "vi": "nếu",
+          "spell": ""
+        },
+        {
+          "en": "introduce",
+          "id": 10,
+          "vi": "giới thiệu",
+          "spell": ""
+        },
+        {
+          "en": "iron",
+          "id": 11,
+          "vi": "sắt",
+          "spell": ""
+        },
+        {
+          "en": "invent",
+          "id": 12,
+          "vi": "phát minh, chế tạo",
+          "spell": ""
+        },
+        {
+          "en": "island",
+          "id": 13,
+          "vi": "hòn đảo",
+          "spell": ""
+        },
+        {
+          "en": "is",
+          "id": 14,
+          "vi": "là",
+          "spell": ""
+        },
+        {
+          "en": "it",
+          "id": 15,
+          "vi": "nó",
+          "spell": ""
+        },
+        {
+          "en": "ice",
+          "id": 16,
+          "vi": "đá",
+          "spell": ""
+        }
+      ]
+    },
+    {
+      "id": "l",
+      "items": [
+        {
+          "en": "lie",
+          "id": 0,
+          "vi": "nói dối",
+          "spell": ""
+        },
+        {
+          "en": "last",
+          "id": 1,
+          "vi": "cuối cùng",
+          "spell": ""
+        },
+        {
+          "en": "lip",
+          "id": 2,
+          "vi": "môi",
+          "spell": ""
+        },
+        {
+          "en": "life",
+          "id": 3,
+          "vi": "cuộc đời",
+          "spell": ""
+        },
+        {
+          "en": "lesson",
+          "id": 4,
+          "vi": "bài học",
+          "spell": ""
+        },
+        {
+          "en": "leg",
+          "id": 5,
+          "vi": "chân, cẳng chân",
+          "spell": ""
+        },
+        {
+          "en": "lady",
+          "id": 6,
+          "vi": "phụ nữa, quý bà",
+          "spell": ""
+        },
+        {
+          "en": "letter",
+          "id": 7,
+          "vi": "thư",
+          "spell": ""
+        },
+        {
+          "en": "length",
+          "id": 8,
+          "vi": "chiều dài",
+          "spell": ""
+        },
+        {
+          "en": "list",
+          "id": 9,
+          "vi": "danh sách",
+          "spell": ""
+        },
+        {
+          "en": "learn",
+          "id": 10,
+          "vi": "học tập",
+          "spell": ""
+        },
+        {
+          "en": "large",
+          "id": 11,
+          "vi": "lớn, rộng",
+          "spell": ""
+        },
+        {
+          "en": "land",
+          "id": 12,
+          "vi": "đất",
+          "spell": ""
+        },
+        {
+          "en": "love",
+          "id": 13,
+          "vi": "yêu",
+          "spell": ""
+        },
+        {
+          "en": "let",
+          "id": 14,
+          "vi": "đẻ cho",
+          "spell": ""
+        },
+        {
+          "en": "long",
+          "id": 15,
+          "vi": "dài, lâu",
+          "spell": ""
+        },
+        {
+          "en": "luck",
+          "id": 16,
+          "vi": "may mắn",
+          "spell": ""
+        },
+        {
+          "en": "lamp",
+          "id": 17,
+          "vi": "đèn",
+          "spell": ""
+        },
+        {
+          "en": "lot",
+          "id": 18,
+          "vi": "nhiều",
+          "spell": ""
+        },
+        {
+          "en": "less",
+          "id": 19,
+          "vi": "ít hơn",
+          "spell": ""
+        },
+        {
+          "en": "lately",
+          "id": 20,
+          "vi": "gần đây",
+          "spell": ""
+        },
+        {
+          "en": "lead",
+          "id": 21,
+          "vi": "lãnh đạo, dẫn dắt",
+          "spell": ""
+        },
+        {
+          "en": "lower",
+          "id": 22,
+          "vi": "hạn, giảm",
+          "spell": ""
+        },
+        {
+          "en": "look",
+          "id": 23,
+          "vi": "nhìn, trông",
+          "spell": ""
+        },
+        {
+          "en": "leaf",
+          "id": 24,
+          "vi": "cái lá",
+          "spell": ""
+        },
+        {
+          "en": "listen",
+          "id": 25,
+          "vi": "nghe, lắng nghe",
+          "spell": ""
+        },
+        {
+          "en": "late",
+          "id": 26,
+          "vi": "muộn",
+          "spell": ""
+        },
+        {
+          "en": "lock",
+          "id": 27,
+          "vi": "khoá",
+          "spell": ""
+        },
+        {
+          "en": "lose",
+          "id": 28,
+          "vi": "mất",
+          "spell": ""
+        },
+        {
+          "en": "lend",
+          "id": 29,
+          "vi": "cho mượn",
+          "spell": ""
+        },
+        {
+          "en": "laugh",
+          "id": 30,
+          "vi": "cười",
+          "spell": ""
+        },
+        {
+          "en": "ladder",
+          "id": 31,
+          "vi": "thang",
+          "spell": ""
+        },
+        {
+          "en": "live",
+          "id": 32,
+          "vi": "sống",
+          "spell": ""
+        },
+        {
+          "en": "like",
+          "id": 33,
+          "vi": "thích",
+          "spell": ""
+        },
+        {
+          "en": "leave",
+          "id": 34,
+          "vi": "rời đi",
+          "spell": ""
+        },
+        {
+          "en": "light",
+          "id": 35,
+          "vi": "ánh sáng",
+          "spell": ""
+        },
+        {
+          "en": "left",
+          "id": 36,
+          "vi": "trái",
+          "spell": ""
+        },
+        {
+          "en": "low",
+          "id": 37,
+          "vi": "thấp",
+          "spell": ""
+        },
+        {
+          "en": "lion",
+          "id": 38,
+          "vi": "sư tử",
+          "spell": ""
+        },
+        {
+          "en": "lazy",
+          "id": 39,
+          "vi": "lười biếng",
+          "spell": ""
+        },
+        {
+          "en": "little",
+          "id": 40,
+          "vi": "nhỏ",
+          "spell": ""
+        },
+        {
+          "en": "lonely",
+          "id": 41,
+          "vi": "cô đơn, cô độc",
+          "spell": ""
+        },
+        {
+          "en": "library",
+          "id": 42,
+          "vi": "thư viện",
+          "spell": ""
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "items": [
+        {
+          "en": "half",
+          "id": 0,
+          "vi": "một nửa",
+          "spell": ""
+        },
+        {
+          "en": "house",
+          "id": 1,
+          "vi": "ngôi nhà",
+          "spell": ""
+        },
+        {
+          "en": "have",
+          "id": 2,
+          "vi": "có",
+          "spell": ""
+        },
+        {
+          "en": "hide",
+          "id": 3,
+          "vi": "giấu",
+          "spell": ""
+        },
+        {
+          "en": "home",
+          "id": 4,
+          "vi": "nhà",
+          "spell": ""
+        },
+        {
+          "en": "him",
+          "id": 5,
+          "vi": "anh ấy",
+          "spell": ""
+        },
+        {
+          "en": "high",
+          "id": 6,
+          "vi": "cao",
+          "spell": ""
+        },
+        {
+          "en": "here",
+          "id": 7,
+          "vi": "đây",
+          "spell": ""
+        },
+        {
+          "en": "hurry",
+          "id": 8,
+          "vi": "gục, vội vàng",
+          "spell": ""
+        },
+        {
+          "en": "hat",
+          "id": 9,
+          "vi": "mũ",
+          "spell": ""
+        },
+        {
+          "en": "has",
+          "id": 10,
+          "vi": "có",
+          "spell": ""
+        },
+        {
+          "en": "hate",
+          "id": 11,
+          "vi": "ghét",
+          "spell": ""
+        },
+        {
+          "en": "hope",
+          "id": 12,
+          "vi": "hi vọng",
+          "spell": ""
+        },
+        {
+          "en": "heaven",
+          "id": 13,
+          "vi": "thiên đường",
+          "spell": ""
+        },
+        {
+          "en": "hair",
+          "id": 14,
+          "vi": "tóc",
+          "spell": ""
+        },
+        {
+          "en": "her",
+          "id": 15,
+          "vi": "cô ấy, của cô ấy",
+          "spell": ""
+        },
+        {
+          "en": "help",
+          "id": 16,
+          "vi": "giúp đỡ",
+          "spell": ""
+        },
+        {
+          "en": "hobby",
+          "id": 17,
+          "vi": "sở thích, thú vui",
+          "spell": ""
+        },
+        {
+          "en": "husband",
+          "id": 18,
+          "vi": "chồng",
+          "spell": ""
+        },
+        {
+          "en": "hammer",
+          "id": 19,
+          "vi": "cái búa",
+          "spell": ""
+        },
+        {
+          "en": "hotel",
+          "id": 20,
+          "vi": "khách sạn",
+          "spell": ""
+        },
+        {
+          "en": "hill",
+          "id": 21,
+          "vi": "đồi",
+          "spell": ""
+        },
+        {
+          "en": "hall",
+          "id": 22,
+          "vi": "hội trường",
+          "spell": ""
+        },
+        {
+          "en": "hour",
+          "id": 23,
+          "vi": "giờ, tiếng",
+          "spell": ""
+        },
+        {
+          "en": "heart",
+          "id": 24,
+          "vi": "trái tim",
+          "spell": ""
+        },
+        {
+          "en": "he",
+          "id": 25,
+          "vi": "anh ấy",
+          "spell": ""
+        },
+        {
+          "en": "hold",
+          "id": 26,
+          "vi": "giữ, cầm",
+          "spell": ""
+        },
+        {
+          "en": "hard",
+          "id": 27,
+          "vi": "cứng, khó khăn",
+          "spell": ""
+        },
+        {
+          "en": "hundred",
+          "id": 28,
+          "vi": "trăm",
+          "spell": ""
+        },
+        {
+          "en": "hurt",
+          "id": 29,
+          "vi": "đau",
+          "spell": ""
+        },
+        {
+          "en": "how",
+          "id": 30,
+          "vi": "như thế nào",
+          "spell": ""
+        },
+        {
+          "en": "hello",
+          "id": 31,
+          "vi": "chào",
+          "spell": ""
+        },
+        {
+          "en": "hole",
+          "id": 32,
+          "vi": "hố, lỗ",
+          "spell": ""
+        },
+        {
+          "en": "hear",
+          "id": 33,
+          "vi": "nghe thấy",
+          "spell": ""
+        },
+        {
+          "en": "horse",
+          "id": 34,
+          "vi": "ngựa",
+          "spell": ""
+        },
+        {
+          "en": "head",
+          "id": 35,
+          "vi": "đầu",
+          "spell": ""
+        },
+        {
+          "en": "height",
+          "id": 36,
+          "vi": "chiều cao",
+          "spell": ""
+        },
+        {
+          "en": "hand",
+          "id": 37,
+          "vi": "tay",
+          "spell": ""
+        },
+        {
+          "en": "happy",
+          "id": 38,
+          "vi": "vui vẻ, hạnh phúc",
+          "spell": ""
+        },
+        {
+          "en": "healthy",
+          "id": 39,
+          "vi": "khoẻ",
+          "spell": ""
+        },
+        {
+          "en": "heavy",
+          "id": 40,
+          "vi": "nặng",
+          "spell": ""
+        },
+        {
+          "en": "happen",
+          "id": 41,
+          "vi": "xảy ra",
+          "spell": ""
+        },
+        {
+          "en": "hers",
+          "id": 42,
+          "vi": "của cô ấy",
+          "spell": ""
+        },
+        {
+          "en": "hit",
+          "id": 43,
+          "vi": "đánh",
+          "spell": ""
+        },
+        {
+          "en": "holiday",
+          "id": 44,
+          "vi": "kỳ nghỉ, ngày nghỉ",
+          "spell": ""
+        },
+        {
+          "en": "hungry",
+          "id": 45,
+          "vi": "đói",
+          "spell": ""
+        },
+        {
+          "en": "his",
+          "id": 46,
+          "vi": "của anh ấy",
+          "spell": ""
+        },
+        {
+          "en": "hot",
+          "id": 47,
+          "vi": "nóng",
+          "spell": ""
+        },
+        {
+          "en": "hen",
+          "id": 48,
+          "vi": "gà mái",
+          "spell": ""
+        },
+        {
+          "en": "hospital",
+          "id": 49,
+          "vi": "bệnh viện",
+          "spell": ""
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "items": [
+        {
+          "en": "grow",
+          "id": 0,
+          "vi": "mọc, phát triển",
+          "spell": ""
+        },
+        {
+          "en": "general",
+          "id": 1,
+          "vi": "nhìn chung, tổng quát",
+          "spell": ""
+        },
+        {
+          "en": "gold",
+          "id": 2,
+          "vi": "vàng",
+          "spell": ""
+        },
+        {
+          "en": "goat",
+          "id": 3,
+          "vi": "dê",
+          "spell": ""
+        },
+        {
+          "en": "group",
+          "id": 4,
+          "vi": "nhóm",
+          "spell": ""
+        },
+        {
+          "en": "gate",
+          "id": 5,
+          "vi": "cổng",
+          "spell": ""
+        },
+        {
+          "en": "ground",
+          "id": 6,
+          "vi": "mặt đất, sân",
+          "spell": ""
+        },
+        {
+          "en": "god",
+          "id": 7,
+          "vi": "chúa",
+          "spell": ""
+        },
+        {
+          "en": "grandfather",
+          "id": 8,
+          "vi": "ông",
+          "spell": ""
+        },
+        {
+          "en": "gift",
+          "id": 9,
+          "vi": "món quà",
+          "spell": ""
+        },
+        {
+          "en": "grey",
+          "id": 10,
+          "vi": "xám",
+          "spell": ""
+        },
+        {
+          "en": "goodbye",
+          "id": 11,
+          "vi": "tạm biệt",
+          "spell": ""
+        },
+        {
+          "en": "glass",
+          "id": 12,
+          "vi": "kính, thuỷ tinh",
+          "spell": ""
+        },
+        {
+          "en": "good",
+          "id": 13,
+          "vi": "tốt",
+          "spell": ""
+        },
+        {
+          "en": "gun",
+          "id": 14,
+          "vi": "súng",
+          "spell": ""
+        },
+        {
+          "en": "grass",
+          "id": 15,
+          "vi": "cỏ",
+          "spell": ""
+        },
+        {
+          "en": "gentleman",
+          "id": 16,
+          "vi": "quý ông",
+          "spell": ""
+        },
+        {
+          "en": "grave",
+          "id": 17,
+          "vi": "mộ, bia",
+          "spell": ""
+        },
+        {
+          "en": "great",
+          "id": 18,
+          "vi": "lớn",
+          "spell": ""
+        },
+        {
+          "en": "get",
+          "id": 19,
+          "vi": "kiếm, nhận",
+          "spell": ""
+        },
+        {
+          "en": "green",
+          "id": 20,
+          "vi": "xanh lá",
+          "spell": ""
+        },
+        {
+          "en": "game",
+          "id": 21,
+          "vi": "trò chơi",
+          "spell": ""
+        },
+        {
+          "en": "give",
+          "id": 22,
+          "vi": "đưa cho, cho",
+          "spell": ""
+        },
+        {
+          "en": "grandmother",
+          "id": 23,
+          "vi": "bà",
+          "spell": ""
+        },
+        {
+          "en": "glad",
+          "id": 24,
+          "vi": "hân hạnh, vui",
+          "spell": ""
+        },
+        {
+          "en": "go",
+          "id": 25,
+          "vi": "đi",
+          "spell": ""
+        },
+        {
+          "en": "garden",
+          "id": 26,
+          "vi": "vườn",
+          "spell": ""
+        }
+      ]
+    },
+    {
+      "id": "a",
+      "items": [
+        {
+          "en": "about",
+          "id": 0,
+          "vi": "về",
+          "spell": "əˈbout"
+        },
+        {
+          "en": "age",
+          "id": 1,
+          "vi": "tuổi",
+          "spell": ""
+        },
+        {
+          "en": "along",
+          "id": 2,
+          "vi": "dọc theo",
+          "spell": ""
+        },
+        {
+          "en": "arrive",
+          "id": 3,
+          "vi": "đến",
+          "spell": ""
+        },
+        {
+          "en": "am",
+          "id": 4,
+          "vi": "là",
+          "spell": ""
+        },
+        {
+          "en": "again",
+          "id": 5,
+          "vi": "lại, một lần nữa",
+          "spell": ""
+        },
+        {
+          "en": "agree",
+          "id": 6,
+          "vi": "đồng ý",
+          "spell": ""
+        },
+        {
+          "en": "around",
+          "id": 7,
+          "vi": "vòng quanh, xung quanh",
+          "spell": ""
+        },
+        {
+          "en": "ask",
+          "id": 8,
+          "vi": "hỏi",
+          "spell": ""
+        },
+        {
+          "en": "answer",
+          "id": 9,
+          "vi": "trả lời, câu trả lời",
+          "spell": ""
+        },
+        {
+          "en": "anything",
+          "id": 10,
+          "vi": "vật gì, việc gì",
+          "spell": ""
+        },
+        {
+          "en": "anyone",
+          "id": 11,
+          "vi": "người nào, ai",
+          "spell": ""
+        },
+        {
+          "en": "act",
+          "id": 12,
+          "vi": "hành động, cư xử",
+          "spell": ""
+        },
+        {
+          "en": "add",
+          "id": 13,
+          "vi": "thêm vào, cộng",
+          "spell": ""
+        },
+        {
+          "en": "art",
+          "id": 14,
+          "vi": "nghệ thuật",
+          "spell": ""
+        },
+        {
+          "en": "another",
+          "id": 15,
+          "vi": "khác, nữa",
+          "spell": ""
+        },
+        {
+          "en": "angry",
+          "id": 16,
+          "vi": "giận giữ",
+          "spell": ""
+        },
+        {
+          "en": "always",
+          "id": 17,
+          "vi": "luôn luôn",
+          "spell": ""
+        },
+        {
+          "en": "all",
+          "id": 18,
+          "vi": "tất cả, toàn bộ",
+          "spell": ""
+        },
+        {
+          "en": "and",
+          "id": 19,
+          "vi": "và",
+          "spell": ""
+        },
+        {
+          "en": "arm",
+          "id": 20,
+          "vi": "cánh tay",
+          "spell": ""
+        },
+        {
+          "en": "area",
+          "id": 21,
+          "vi": "khu vực",
+          "spell": ""
+        },
+        {
+          "en": "at",
+          "id": 22,
+          "vi": "ở tại",
+          "spell": ""
+        },
+        {
+          "en": "aunt",
+          "id": 23,
+          "vi": "dì, cô, bác",
+          "spell": ""
+        },
+        {
+          "en": "after",
+          "id": 24,
+          "vi": "sau",
+          "spell": ""
+        },
+        {
+          "en": "away",
+          "id": 25,
+          "vi": "xa, cách xa",
+          "spell": ""
+        },
+        {
+          "en": "as",
+          "id": 26,
+          "vi": "khi",
+          "spell": ""
+        },
+        {
+          "en": "amount",
+          "id": 27,
+          "vi": "lượng",
+          "spell": ""
+        },
+        {
+          "en": "apple",
+          "id": 28,
+          "vi": "quả táo",
+          "spell": ""
+        },
+        {
+          "en": "any",
+          "id": 29,
+          "vi": "một vài, một số",
+          "spell": ""
+        },
+        {
+          "en": "appear",
+          "id": 30,
+          "vi": "xuất hiện",
+          "spell": ""
+        },
+        {
+          "en": "active",
+          "id": 31,
+          "vi": "năng động, chủ động",
+          "spell": ""
+        },
+        {
+          "en": "above",
+          "id": 32,
+          "vi": "ở trên",
+          "spell": ""
+        },
+        {
+          "en": "already",
+          "id": 33,
+          "vi": "đã, rồi",
+          "spell": ""
+        },
+        {
+          "en": "activity",
+          "id": 34,
+          "vi": "hoạt động",
+          "spell": ""
+        },
+        {
+          "en": "are",
+          "id": 35,
+          "vi": "là",
+          "spell": ""
+        },
+        {
+          "en": "across",
+          "id": 36,
+          "vi": "ngang qua",
+          "spell": ""
+        },
+        {
+          "en": "attack",
+          "id": 37,
+          "vi": "tấn công",
+          "spell": ""
+        },
+        {
+          "en": "afraid",
+          "id": 38,
+          "vi": "sợ, e rằng",
+          "spell": ""
+        },
+        {
+          "en": "army",
+          "id": 39,
+          "vi": "quân đội",
+          "spell": ""
+        },
+        {
+          "en": "anytime",
+          "id": 40,
+          "vi": "bất kì lúc nào",
+          "spell": ""
+        },
+        {
+          "en": "air",
+          "id": 41,
+          "vi": "không khí, không trung",
+          "spell": ""
+        },
+        {
+          "en": "alone",
+          "id": 42,
+          "vi": "một mình",
+          "spell": ""
+        },
+        {
+          "en": "ago",
+          "id": 43,
+          "vi": "trước đây, về trước",
+          "spell": ""
+        },
+        {
+          "en": "autumn",
+          "id": 44,
+          "vi": "mùa thu",
+          "spell": ""
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "items": [
+        {
+          "en": "jelly",
+          "id": 0,
+          "vi": "thạch",
+          "spell": ""
+        },
+        {
+          "en": "job",
+          "id": 1,
+          "vi": "công việc",
+          "spell": ""
+        },
+        {
+          "en": "juice",
+          "id": 2,
+          "vi": "nước ép",
+          "spell": ""
+        },
+        {
+          "en": "join",
+          "id": 3,
+          "vi": "tham gia",
+          "spell": ""
+        },
+        {
+          "en": "just",
+          "id": 4,
+          "vi": "vừa mới",
+          "spell": ""
+        },
+        {
+          "en": "jump",
+          "id": 5,
+          "vi": "nhảy",
+          "spell": ""
+        }
+      ]
+    },
+    {
+      "id": "m",
+      "items": [
+        {
+          "en": "make",
+          "id": 0,
+          "vi": "làm",
+          "spell": ""
+        },
+        {
+          "en": "male",
+          "id": 1,
+          "vi": "giống đực",
+          "spell": ""
+        },
+        {
+          "en": "method",
+          "id": 2,
+          "vi": "phương pháp, cách thức",
+          "spell": ""
+        },
+        {
+          "en": "moment",
+          "id": 3,
+          "vi": "chốc, lúc lát",
+          "spell": ""
+        },
+        {
+          "en": "meal",
+          "id": 4,
+          "vi": "bữa ăn",
+          "spell": ""
+        },
+        {
+          "en": "moon",
+          "id": 5,
+          "vi": "mặt trăng",
+          "spell": ""
+        },
+        {
+          "en": "most",
+          "id": 6,
+          "vi": "nhiều nhất",
+          "spell": ""
+        },
+        {
+          "en": "member",
+          "id": 7,
+          "vi": "thành viên",
+          "spell": ""
+        },
+        {
+          "en": "main",
+          "id": 8,
+          "vi": "chính, chủ yếu",
+          "spell": ""
+        },
+        {
+          "en": "much",
+          "id": 9,
+          "vi": "nhiều",
+          "spell": ""
+        },
+        {
+          "en": "month",
+          "id": 10,
+          "vi": "tháng",
+          "spell": ""
+        },
+        {
+          "en": "morning",
+          "id": 11,
+          "vi": "buổi sáng",
+          "spell": ""
+        },
+        {
+          "en": "measure",
+          "id": 12,
+          "vi": "đo, đo lường",
+          "spell": ""
+        },
+        {
+          "en": "mouth",
+          "id": 13,
+          "vi": "miệng",
+          "spell": ""
+        },
+        {
+          "en": "medicine",
+          "id": 14,
+          "vi": "thuốc",
+          "spell": ""
+        },
+        {
+          "en": "mind",
+          "id": 15,
+          "vi": "quan tâm, tinh thần",
+          "spell": ""
+        },
+        {
+          "en": "me",
+          "id": 16,
+          "vi": "tôi",
+          "spell": ""
+        },
+        {
+          "en": "my",
+          "id": 17,
+          "vi": "của tôi",
+          "spell": ""
+        },
+        {
+          "en": "must",
+          "id": 18,
+          "vi": "phải",
+          "spell": ""
+        },
+        {
+          "en": "mistake",
+          "id": 19,
+          "vi": "lỗi, lỗi lầm",
+          "spell": ""
+        },
+        {
+          "en": "modern",
+          "id": 20,
+          "vi": "hiện đại, tân tiến",
+          "spell": ""
+        },
+        {
+          "en": "machine",
+          "id": 21,
+          "vi": "máy",
+          "spell": ""
+        },
+        {
+          "en": "matter",
+          "id": 22,
+          "vi": "vấn đề",
+          "spell": ""
+        },
+        {
+          "en": "miss",
+          "id": 23,
+          "vi": "nhỡ, bỏ lỡ",
+          "spell": ""
+        },
+        {
+          "en": "milk",
+          "id": 24,
+          "vi": "sữa",
+          "spell": ""
+        },
+        {
+          "en": "many",
+          "id": 25,
+          "vi": "nhiều",
+          "spell": ""
+        },
+        {
+          "en": "market",
+          "id": 26,
+          "vi": "chợ, thị trường",
+          "spell": ""
+        },
+        {
+          "en": "music",
+          "id": 27,
+          "vi": "âm nhạc",
+          "spell": ""
+        },
+        {
+          "en": "money",
+          "id": 28,
+          "vi": "tiền",
+          "spell": ""
+        },
+        {
+          "en": "middle",
+          "id": 29,
+          "vi": "ở giữa",
+          "spell": ""
+        },
+        {
+          "en": "mean",
+          "id": 30,
+          "vi": "có nghĩa là",
+          "spell": ""
+        },
+        {
+          "en": "mix",
+          "id": 31,
+          "vi": "hoà lẫn, pha trộn",
+          "spell": ""
+        },
+        {
+          "en": "man",
+          "id": 32,
+          "vi": "đàn ông",
+          "spell": ""
+        },
+        {
+          "en": "marry",
+          "id": 33,
+          "vi": "cưới, kết hơn",
+          "spell": ""
+        },
+        {
+          "en": "mention",
+          "id": 34,
+          "vi": "đề cập, giới thiệu",
+          "spell": ""
+        },
+        {
+          "en": "may",
+          "id": 35,
+          "vi": "có thể",
+          "spell": ""
+        },
+        {
+          "en": "minute",
+          "id": 36,
+          "vi": "phút",
+          "spell": ""
+        },
+        {
+          "en": "more",
+          "id": 37,
+          "vi": "nhiều hơn",
+          "spell": ""
+        },
+        {
+          "en": "modal",
+          "id": 38,
+          "vi": "người mẫu",
+          "spell": ""
+        },
+        {
+          "en": "meet",
+          "id": 39,
+          "vi": "gặp",
+          "spell": ""
+        },
+        {
+          "en": "meat",
+          "id": 40,
+          "vi": "thịt",
+          "spell": ""
+        },
+        {
+          "en": "mountain",
+          "id": 41,
+          "vi": "núi",
+          "spell": ""
+        },
+        {
+          "en": "mother",
+          "id": 42,
+          "vi": "mẹ",
+          "spell": ""
+        },
+        {
+          "en": "map",
+          "id": 43,
+          "vi": "bản đồ",
+          "spell": ""
+        },
+        {
+          "en": "million",
+          "id": 44,
+          "vi": "một triệu",
+          "spell": ""
+        },
+        {
+          "en": "monid",
+          "id": 45,
+          "vi": "con khỉ",
+          "spell": ""
+        },
+        {
+          "en": "mark",
+          "id": 46,
+          "vi": "điểm, điểm số",
+          "spell": ""
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "items": [
+        {
+          "en": "direction",
+          "id": 0,
+          "vi": "hướng",
+          "spell": ""
+        },
+        {
+          "en": "dirty",
+          "id": 1,
+          "vi": "bẩn",
+          "spell": ""
+        },
+        {
+          "en": "dust",
+          "id": 2,
+          "vi": "bụi",
+          "spell": ""
+        },
+        {
+          "en": "discover",
+          "id": 3,
+          "vi": "phát hiện, khám phá",
+          "spell": ""
+        },
+        {
+          "en": "decrease",
+          "id": 4,
+          "vi": "giảm",
+          "spell": ""
+        },
+        {
+          "en": "double",
+          "id": 5,
+          "vi": "gấp đốim nhân đôi",
+          "spell": ""
+        },
+        {
+          "en": "destroy",
+          "id": 6,
+          "vi": "phá huỷ",
+          "spell": ""
+        },
+        {
+          "en": "dog",
+          "id": 7,
+          "vi": "con chó",
+          "spell": ""
+        },
+        {
+          "en": "do",
+          "id": 8,
+          "vi": "làm",
+          "spell": ""
+        },
+        {
+          "en": "dance",
+          "id": 9,
+          "vi": "nhảy",
+          "spell": ""
+        },
+        {
+          "en": "dry",
+          "id": 10,
+          "vi": "khô",
+          "spell": ""
+        },
+        {
+          "en": "daughter",
+          "id": 11,
+          "vi": "con gái",
+          "spell": ""
+        },
+        {
+          "en": "deep",
+          "id": 12,
+          "vi": "sâu",
+          "spell": ""
+        },
+        {
+          "en": "deer",
+          "id": 13,
+          "vi": "con nai",
+          "spell": ""
+        },
+        {
+          "en": "dress",
+          "id": 14,
+          "vi": "váy liền",
+          "spell": ""
+        },
+        {
+          "en": "dinner",
+          "id": 15,
+          "vi": "bữa tối",
+          "spell": ""
+        },
+        {
+          "en": "drive",
+          "id": 16,
+          "vi": "lái xe",
+          "spell": ""
+        },
+        {
+          "en": "dead",
+          "id": 17,
+          "vi": "chết, mất",
+          "spell": ""
+        },
+        {
+          "en": "day",
+          "id": 18,
+          "vi": "ngày",
+          "spell": ""
+        },
+        {
+          "en": "direct",
+          "id": 19,
+          "vi": "hướng dẫn, chỉ dẫn",
+          "spell": ""
+        },
+        {
+          "en": "dish",
+          "id": 20,
+          "vi": "đĩa, món ăn",
+          "spell": ""
+        },
+        {
+          "en": "drop",
+          "id": 21,
+          "vi": "rơi",
+          "spell": ""
+        },
+        {
+          "en": "dangerous",
+          "id": 22,
+          "vi": "nguy hiểm",
+          "spell": ""
+        },
+        {
+          "en": "dark",
+          "id": 23,
+          "vi": "tối",
+          "spell": ""
+        },
+        {
+          "en": "duck",
+          "id": 24,
+          "vi": "con vịt",
+          "spell": ""
+        },
+        {
+          "en": "depend",
+          "id": 25,
+          "vi": "phụ thuộc",
+          "spell": ""
+        },
+        {
+          "en": "down",
+          "id": 26,
+          "vi": "xuống",
+          "spell": ""
+        },
+        {
+          "en": "draw",
+          "id": 27,
+          "vi": "vẽ",
+          "spell": ""
+        },
+        {
+          "en": "desk",
+          "id": 28,
+          "vi": "bàn",
+          "spell": ""
+        },
+        {
+          "en": "door",
+          "id": 29,
+          "vi": "cửa",
+          "spell": ""
+        },
+        {
+          "en": "develop",
+          "id": 30,
+          "vi": "phát triển",
+          "spell": ""
+        },
+        {
+          "en": "dream",
+          "id": 31,
+          "vi": "giấc mơ",
+          "spell": ""
+        },
+        {
+          "en": "drink",
+          "id": 32,
+          "vi": "uống",
+          "spell": ""
+        },
+        {
+          "en": "die",
+          "id": 33,
+          "vi": "chết",
+          "spell": ""
+        },
+        {
+          "en": "different",
+          "id": 34,
+          "vi": "khác",
+          "spell": ""
+        },
+        {
+          "en": "decide",
+          "id": 35,
+          "vi": "quyết định",
+          "spell": ""
+        },
+        {
+          "en": "difficult",
+          "id": 36,
+          "vi": "khó khăn",
+          "spell": ""
+        },
+        {
+          "en": "duty",
+          "id": 37,
+          "vi": "nhiệm vụ, trách nhiệm",
+          "spell": ""
+        }
+      ]
+    },
+    {
+      "id": "k",
+      "items": [
+        {
+          "en": "knee",
+          "id": 0,
+          "vi": "đầu gối",
+          "spell": ""
+        },
+        {
+          "en": "knock",
+          "id": 1,
+          "vi": "gõ",
+          "spell": ""
+        },
+        {
+          "en": "know",
+          "id": 2,
+          "vi": "biết",
+          "spell": ""
+        },
+        {
+          "en": "kill",
+          "id": 3,
+          "vi": "giết, chết",
+          "spell": ""
+        },
+        {
+          "en": "kitchen",
+          "id": 4,
+          "vi": "nhà bếp",
+          "spell": ""
+        },
+        {
+          "en": "id",
+          "id": 5,
+          "vi": "chìa khoá",
+          "spell": ""
+        },
+        {
+          "en": "knife",
+          "id": 6,
+          "vi": "dao",
+          "spell": ""
+        },
+        {
+          "en": "kind",
+          "id": 7,
+          "vi": "tốt bụng, tử tế",
+          "spell": ""
+        },
+        {
+          "en": "keep",
+          "id": 8,
+          "vi": "giữ",
+          "spell": ""
+        },
+        {
+          "en": "king",
+          "id": 9,
+          "vi": "vua",
+          "spell": ""
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "items": [
+        {
+          "en": "fix",
+          "id": 0,
+          "vi": "sửa chữa",
+          "spell": ""
+        },
+        {
+          "en": "female",
+          "id": 1,
+          "vi": "nữ giới",
+          "spell": ""
+        },
+        {
+          "en": "foot",
+          "id": 2,
+          "vi": "chân",
+          "spell": ""
+        },
+        {
+          "en": "fruit",
+          "id": 3,
+          "vi": "hoa quả",
+          "spell": ""
+        },
+        {
+          "en": "father",
+          "id": 4,
+          "vi": "bố",
+          "spell": ""
+        },
+        {
+          "en": "full",
+          "id": 5,
+          "vi": "đầy",
+          "spell": ""
+        },
+        {
+          "en": "fall",
+          "id": 6,
+          "vi": "rơi",
+          "spell": ""
+        },
+        {
+          "en": "football",
+          "id": 7,
+          "vi": "bóng đá",
+          "spell": ""
+        },
+        {
+          "en": "fly",
+          "id": 8,
+          "vi": "bay",
+          "spell": ""
+        },
+        {
+          "en": "finish",
+          "id": 9,
+          "vi": "hoàn thành",
+          "spell": ""
+        },
+        {
+          "en": "family",
+          "id": 10,
+          "vi": "gia đình",
+          "spell": ""
+        },
+        {
+          "en": "flat",
+          "id": 11,
+          "vi": "bằng phẳng",
+          "spell": ""
+        },
+        {
+          "en": "forget",
+          "id": 12,
+          "vi": "quên",
+          "spell": ""
+        },
+        {
+          "en": "fine",
+          "id": 13,
+          "vi": "tốt đẹp, ổn",
+          "spell": ""
+        },
+        {
+          "en": "from",
+          "id": 14,
+          "vi": "từ",
+          "spell": ""
+        },
+        {
+          "en": "fast",
+          "id": 15,
+          "vi": "nhanh",
+          "spell": ""
+        },
+        {
+          "en": "fit",
+          "id": 16,
+          "vi": "vừa, phù hợp",
+          "spell": ""
+        },
+        {
+          "en": "flour",
+          "id": 17,
+          "vi": "bột",
+          "spell": ""
+        },
+        {
+          "en": "famous",
+          "id": 18,
+          "vi": "nổi tiếng",
+          "spell": ""
+        },
+        {
+          "en": "fault",
+          "id": 19,
+          "vi": "lỗi",
+          "spell": ""
+        },
+        {
+          "en": "future",
+          "id": 20,
+          "vi": "tương lai",
+          "spell": ""
+        },
+        {
+          "en": "film",
+          "id": 21,
+          "vi": "phim",
+          "spell": ""
+        },
+        {
+          "en": "fun",
+          "id": 22,
+          "vi": "sự vui vẻ, người vui vẻ",
+          "spell": ""
+        },
+        {
+          "en": "face",
+          "id": 23,
+          "vi": "mặt",
+          "spell": ""
+        },
+        {
+          "en": "fact",
+          "id": 24,
+          "vi": "sự kiện",
+          "spell": ""
+        },
+        {
+          "en": "friend",
+          "id": 25,
+          "vi": "bạn bè",
+          "spell": ""
+        },
+        {
+          "en": "forest",
+          "id": 26,
+          "vi": "rừng",
+          "spell": ""
+        },
+        {
+          "en": "floor",
+          "id": 27,
+          "vi": "sàn",
+          "spell": ""
+        },
+        {
+          "en": "first",
+          "id": 28,
+          "vi": "đầu tiên, nhất",
+          "spell": ""
+        },
+        {
+          "en": "fever",
+          "id": 29,
+          "vi": "sốt",
+          "spell": ""
+        },
+        {
+          "en": "funny",
+          "id": 30,
+          "vi": "hài hước, buồn cười",
+          "spell": ""
+        },
+        {
+          "en": "five",
+          "id": 31,
+          "vi": "năm",
+          "spell": ""
+        },
+        {
+          "en": "front",
+          "id": 32,
+          "vi": "phía trước",
+          "spell": ""
+        },
+        {
+          "en": "feel",
+          "id": 33,
+          "vi": "cảm thấy, cảm nhận",
+          "spell": ""
+        },
+        {
+          "en": "freedom",
+          "id": 34,
+          "vi": "tự do",
+          "spell": ""
+        },
+        {
+          "en": "fill",
+          "id": 35,
+          "vi": "đỏ đầy, điền vào",
+          "spell": ""
+        },
+        {
+          "en": "four",
+          "id": 36,
+          "vi": "bốn",
+          "spell": ""
+        },
+        {
+          "en": "forgive",
+          "id": 37,
+          "vi": "tha thứ",
+          "spell": ""
+        },
+        {
+          "en": "far",
+          "id": 38,
+          "vi": "xa",
+          "spell": ""
+        },
+        {
+          "en": "feed",
+          "id": 39,
+          "vi": "cho ăn",
+          "spell": ""
+        },
+        {
+          "en": "fold",
+          "id": 40,
+          "vi": "gấp",
+          "spell": ""
+        },
+        {
+          "en": "form",
+          "id": 41,
+          "vi": "mẫu, dáng",
+          "spell": ""
+        },
+        {
+          "en": "food",
+          "id": 42,
+          "vi": "thức ăn, thực phẩm",
+          "spell": ""
+        },
+        {
+          "en": "fail",
+          "id": 43,
+          "vi": "thất bại",
+          "spell": ""
+        },
+        {
+          "en": "free",
+          "id": 44,
+          "vi": "tự do, miễn phí",
+          "spell": ""
+        },
+        {
+          "en": "fear",
+          "id": 45,
+          "vi": "sợ, e rằng",
+          "spell": ""
+        },
+        {
+          "en": "flag",
+          "id": 46,
+          "vi": "cờ",
+          "spell": ""
+        },
+        {
+          "en": "further",
+          "id": 47,
+          "vi": "xa hơn",
+          "spell": ""
+        },
+        {
+          "en": "freeze",
+          "id": 48,
+          "vi": "đông lại, làm đông đặc",
+          "spell": ""
+        },
+        {
+          "en": "float",
+          "id": 49,
+          "vi": "nổi, lơ lửng",
+          "spell": ""
+        },
+        {
+          "en": "few",
+          "id": 50,
+          "vi": "ít, một số",
+          "spell": ""
+        },
+        {
+          "en": "fat",
+          "id": 51,
+          "vi": "béo",
+          "spell": ""
+        },
+        {
+          "en": "fight",
+          "id": 52,
+          "vi": "đánh nhau",
+          "spell": ""
+        },
+        {
+          "en": "flower",
+          "id": 53,
+          "vi": "hoa",
+          "spell": ""
+        },
+        {
+          "en": "foreign",
+          "id": 54,
+          "vi": "nước ngoài",
+          "spell": ""
+        },
+        {
+          "en": "find",
+          "id": 55,
+          "vi": "tìm thấy, phát hiện",
+          "spell": ""
+        },
+        {
+          "en": "farm",
+          "id": 56,
+          "vi": "nông trại, trang trại",
+          "spell": ""
+        },
+        {
+          "en": "force",
+          "id": 57,
+          "vi": "lực, lực lượng",
+          "spell": ""
+        },
+        {
+          "en": "fire",
+          "id": 58,
+          "vi": "lửa",
+          "spell": ""
+        },
+        {
+          "en": "fish",
+          "id": 59,
+          "vi": "cá",
+          "spell": ""
+        },
+        {
+          "en": "furniture",
+          "id": 60,
+          "vi": "đồ đạc",
+          "spell": ""
+        },
+        {
+          "en": "fresh",
+          "id": 61,
+          "vi": "tươi, mới",
+          "spell": ""
+        },
+        {
+          "en": "finger",
+          "id": 62,
+          "vi": "ngón tay",
+          "spell": ""
+        },
+        {
+          "en": "friendly",
+          "id": 63,
+          "vi": "thân mật, thân thiện",
+          "spell": ""
+        },
+        {
+          "en": "for",
+          "id": 64,
+          "vi": "để, cho",
+          "spell": ""
+        },
+        {
+          "en": "fox",
+          "id": 65,
+          "vi": "cáo",
+          "spell": ""
+        },
+        {
+          "en": "fool",
+          "id": 66,
+          "vi": "kẻ ngốc nghếch",
+          "spell": ""
+        },
+        {
+          "en": "false",
+          "id": 67,
+          "vi": "sai",
+          "spell": ""
+        },
+        {
+          "en": "fork",
+          "id": 68,
+          "vi": "cái dĩa, nĩa",
+          "spell": ""
+        }
+      ]
     }
+  ]
 }

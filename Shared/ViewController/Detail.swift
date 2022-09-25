@@ -9,11 +9,10 @@ import SwiftUI
 
 struct Detail: View {
     
-    var item: String
-    
-    var datas: [Element] {
-        let data = try? DataSource.getData().element.first { $0.key == item }
-        return data?.value.map { Element(id: $0.key, text: $0.value) }.sorted { $0.id < $1.id } ?? []
+    var item: Element
+        
+    var datas: [ElementData] {
+        item.items
     }
     
     #if !os(macOS)
@@ -30,21 +29,16 @@ struct Detail: View {
     var main: some View {
         List(datas) { data in
             HStack {
-                Text(data.id)
+                Text(data.en)
                 Spacer()
-                Text(data.text)
+                Text(data.spell)
+                Spacer()
+                Text(data.vi)
             }
             .onTapGesture {
-                DataSource.speak(text: data.id)
+                DataSource.speak(text: data.en)
             }
         }
-        .navigationTitle(item.uppercased())
+        .navigationTitle(item.id.uppercased())
     }
 }
-
-struct Detail_Previews: PreviewProvider {
-    static var previews: some View {
-        Detail(item: "a")
-    }
-}
-
